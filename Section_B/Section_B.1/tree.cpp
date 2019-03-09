@@ -78,6 +78,7 @@ void root(int max_index)
 int main()
 {
 	char str[100];
+	cout<<"Enter the tree: "<<endl;
 	cin>>str;
 	for(int i=0; str[i]!='\0'; i++)
 	{
